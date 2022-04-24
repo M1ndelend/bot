@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const robot = new Discord.Client();
 
-robot.login("NDU2ODE0NDM4ODI2MTE1MDky.DgQBIw.KdFQjbqwkItcs6B6xXGr68GXaTc");
+//говнокод, написан хуй знает сколько лет назад.......
 
 robot.on('message', (message)=>{
 if(message.content == "MiniGames") {
